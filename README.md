@@ -26,3 +26,5 @@ Package Control
 * ColdFusion
 * Emmet
 * SideBar Enhancements
+* Sass
+* Theme - Soda
