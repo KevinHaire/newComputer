@@ -3,6 +3,7 @@ brew install caskroom/cask/brew-cask
 brew install node
 
 brew cask install vlc
+brew cask install handbrake
 brew cask install google-chrome
 brew cask install firefox
 brew cask install sublime-text

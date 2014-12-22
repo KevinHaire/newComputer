@@ -14,6 +14,8 @@ Other things to manually install
 * ColorSnapper
 * ColdFusion
 * xCode
+* Boom 
+* MAMP
 
 SublimeText2 Plugins
 ====================
@@ -26,5 +28,6 @@ Package Control
 * ColdFusion
 * Emmet
 * SideBar Enhancements
-* Sass
+* SCSS
 * Theme - Soda
+* GitGutter
